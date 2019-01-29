@@ -1,4 +1,4 @@
-# Random_Quote_Website
+# Random-Quote-Website
 This is my first web application! It's a random generator of some quotes I found online and some one-liners from my 
 favourite TV shows. I used JavaScript, HTML, and CSS.
 I was inspired by this tutorial: 
